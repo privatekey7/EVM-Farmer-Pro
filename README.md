@@ -1,4 +1,4 @@
-# <img src="/favicon.png" alt="EVM Farmer Pro Logo" width="30" height="30" style="vertical-align: baseline; margin-right: 8px;"> EVM Farmer Pro
+# <img src="/frontend/public/favicon.png" alt="EVM Farmer Pro Logo" width="30" height="30" style="vertical-align: baseline; margin-right: 8px;"> EVM Farmer Pro
 
 **Профессиональная платформа для автоматизации крипто-операций.** Powered by <img src="https://vectorseek.com/wp-content/uploads/2023/08/Debank-Logo-Vector.svg-.png" alt="StableFix Logo" width="50" height="50" style="vertical-align: baseline; margin-right: 4px;"> & <img src="https://reservoir-labs.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F61de8ad8-b5ca-4b58-a9ee-73ed8bdff129%2Fd9cb233f-1d8d-43eb-9132-e726f01a3e3d%2Fdark-bg.png?table=block&id=83a4ef44-158d-4b9e-8b05-cb33cf6aaab1&spaceId=61de8ad8-b5ca-4b58-a9ee-73ed8bdff129&width=320&userId=&cache=v2)" alt="StableFix Logo" width="40" height="40" style="vertical-align: baseline; margin-right: 4px;">
 
