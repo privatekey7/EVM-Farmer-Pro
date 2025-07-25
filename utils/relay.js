@@ -58,7 +58,6 @@ class RelayBridge {
   }
 
   /**
-   * Генерирует параметры appFees для комиссий разработчика (закодированы в base64)
    * @returns {Array} Массив параметров appFees
    */
   generateAppFees() {
