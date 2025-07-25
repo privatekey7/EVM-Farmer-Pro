@@ -1,0 +1,13 @@
+{
+  "name": "evm-farmer-pro-backend",
+  "version": "1.0.0",
+      "description": "Backend API для EVM Farmer Pro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --no-deprecation server.js"
+  },
+      "keywords": ["evm", "farmer", "crypto", "api", "automation"],
+  "author": "",
+  "license": "MIT"
+} 

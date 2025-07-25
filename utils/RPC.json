@@ -1,0 +1,300 @@
+{
+  "rpc": [
+    {
+      "chainId": 1,
+      "name": "ethereum",
+      "httpRpcUrl": "https://eth-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 10,
+      "name": "optimism",
+      "httpRpcUrl": "https://optimism-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 25,
+      "name": "cronos",
+      "httpRpcUrl": "https://cronos-evm-rpc.publicnode.com"
+    },
+    {
+      "chainId": 56,
+      "name": "bsc",
+      "httpRpcUrl": "https://bsc-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 100,
+      "name": "gnosis",
+      "httpRpcUrl": "https://gnosis-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 130,
+      "name": "unichain",
+      "httpRpcUrl": "https://unichain-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 137,
+      "name": "polygon",
+      "httpRpcUrl": "https://polygon-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 146,
+      "name": "sonic",
+      "httpRpcUrl": "https://sonic-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 169,
+      "name": "manta-pacific",
+      "httpRpcUrl": "https://1rpc.io/manta"
+    },
+    {
+      "chainId": 185,
+      "name": "mint",
+      "httpRpcUrl": "https://asia.rpc.mintchain.io"
+    },
+    {
+      "chainId": 288,
+      "name": "boba",
+      "httpRpcUrl": "https://mainnet.boba.network"
+    },
+    {
+      "chainId": 324,
+      "name": "zksync",
+      "httpRpcUrl": "https://zksync-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 360,
+      "name": "shape",
+      "httpRpcUrl": "https://mainnet.shape.network"
+    },
+    {
+      "chainId": 466,
+      "name": "appchain",
+      "httpRpcUrl": "https://appchain.calderachain.xyz/http"
+    },
+    {
+      "chainId": 480,
+      "name": "world-chain",
+      "httpRpcUrl": "https://worldchain-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 690,
+      "name": "redstone",
+      "httpRpcUrl": "https://rpc.redstonechain.com"
+    },
+    {
+      "chainId": 747,
+      "name": "flow-evm",
+      "httpRpcUrl": "https://mainnet.evm.nodes.onflow.org"
+    },
+    {
+      "chainId": 999,
+      "name": "hyperevm",
+      "httpRpcUrl": "https://rpc.hyperliquid.xyz/evm"
+    },
+    {
+      "chainId": 1088,
+      "name": "metis",
+      "httpRpcUrl": "https://metis-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 1101,
+      "name": "polygon-zkevm",
+      "httpRpcUrl": "https://polygon-zkevm-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 1135,
+      "name": "lisk",
+      "httpRpcUrl": "https://lisk.drpc.org"
+    },
+    {
+      "chainId": 1329,
+      "name": "sei",
+      "httpRpcUrl": "https://evm-rpc.sei-apis.com"
+    },
+    {
+      "chainId": 1514,
+      "name": "story",
+      "httpRpcUrl": "https://story-mainnet.g.alchemy.com/v2/ZtlscL5a-MhZEf_NfO9hV"
+    },
+    {
+      "chainId": 1625,
+      "name": "gravity",
+      "httpRpcUrl": "https://rpc.ankr.com/gravity"
+    },
+    {
+      "chainId": 1868,
+      "name": "soneium",
+      "httpRpcUrl": "https://soneium-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 1923,
+      "name": "swellchain",
+      "httpRpcUrl": "https://swell-mainnet.alt.technology"
+    },
+    {
+      "chainId": 1996,
+      "name": "sanko",
+      "httpRpcUrl": "https://mainnet.sanko.xyz"
+    },
+    {
+      "chainId": 2020,
+      "name": "ronin",
+      "httpRpcUrl": "https://api.roninchain.com/rpc"
+    },
+    {
+      "chainId": 2741,
+      "name": "abstract",
+      "httpRpcUrl": "https://rpc.fsd.adfasd32442ds.com/"
+    },
+    {
+      "chainId": 2818,
+      "name": "morph",
+      "httpRpcUrl": "https://rpc-quicknode.morphl2.io"
+    },
+    {
+      "chainId": 2911,
+      "name": "hychain",
+      "httpRpcUrl": "https://rpc.hychain.com/http"
+    },
+    {
+      "chainId": 5000,
+      "name": "mantle",
+      "httpRpcUrl": "https://mantle-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 5330,
+      "name": "superseed",
+      "httpRpcUrl": "https://superseed.drpc.org"
+    },
+    {
+      "chainId": 7560,
+      "name": "cyber",
+      "httpRpcUrl": "https://cyber.alt.technology/"
+    },
+    {
+      "chainId": 7897,
+      "name": "arena-z",
+      "httpRpcUrl": "https://rpc.arena-z.gg"
+    },
+    {
+      "chainId": 8333,
+      "name": "B3",
+      "httpRpcUrl": "https://mainnet-rpc.b3.fun/http"
+    },
+    {
+      "chainId": 42170,
+      "name": "Arbitrum Nova",
+      "httpRpcUrl": "https://arbitrum-nova.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 81457,
+      "name": "Blast",
+      "httpRpcUrl": "https://blastl2-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 34443,
+      "name": "Mode",
+      "httpRpcUrl": "https://mode-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 57073,
+      "name": "Ink",
+      "httpRpcUrl": "https://lb.drpc.org/ink/AlTkHn5Gv0UtioHEtefxnUC7yJLZYk8R8KuKEklbR4ac"
+    },
+    {
+      "chainId": 8453,
+      "name": "base",
+      "httpRpcUrl": "https://base-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 42161,
+      "name": "arbitrum",
+      "httpRpcUrl": "https://arbitrum-one.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 42220,
+      "name": "celo",
+      "httpRpcUrl": "https://celo.drpc.org"
+    },
+    {
+      "chainId": 43114,
+      "name": "avalanche",
+      "httpRpcUrl": "https://ava-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f/ext/bc/C/rpc"
+    },
+    {
+      "chainId": 534352,
+      "name": "scroll",
+      "httpRpcUrl": "https://scroll-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 167000,
+      "name": "taiko",
+      "httpRpcUrl": "https://rpc.ankr.com/taiko"
+    },
+
+    {
+      "chainId": 223,
+      "name": "b2",
+      "httpRpcUrl": "https://rpc.bsquared.network"
+    },
+    {
+      "chainId": 80094,
+      "name": "Berachain",
+      "httpRpcUrl": "https://berachain-rpc.publicnode.com"
+    },
+    {
+      "chainId": 60808,
+      "name": "BOB",
+      "httpRpcUrl": "https://bob.drpc.org"
+    },
+    {
+      "chainId": 666666666,
+      "name": "Degen Chain",
+      "httpRpcUrl": "https://rpc.degen.tips"
+    },
+    {
+      "chainId": 33979,
+      "name": "Funki",
+      "httpRpcUrl": "https://rpc-mainnet.funkichain.com"
+    },
+    {
+      "chainId": 43111,
+      "name": "Hemi",
+      "httpRpcUrl": "https://rpc.hemi.network/rpc"
+    },
+    {
+      "chainId": 747474,
+      "name": "Katana",
+      "httpRpcUrl": "https://rpc.katana.network"
+    },
+    {
+      "chainId": 59144,
+      "name": "Linea",
+      "httpRpcUrl": "https://linea-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+    },
+    {
+      "chainId": 33139,
+      "name": "ApeChain",
+      "httpRpcUrl": "https://apechain.drpc.org"
+    },
+    {
+      "chainId": 1380012617,
+      "name": "RARI Chain",
+      "httpRpcUrl": "https://mainnet.rpc.rarichain.org/http"
+    },
+    {
+      "chainId": 660279,
+      "name": "Xai Mainnet",
+      "httpRpcUrl": "https://rpc.ankr.com/xai"
+    },
+    {
+      "chainId": 543210,
+      "name": "ZERO Network",
+      "httpRpcUrl": "https://zero.drpc.org"
+    },
+    {
+      "chainId": 48900,
+      "name": "Zircuit Mainnet",
+      "httpRpcUrl": "https://zircuit-mainnet.drpc.org"
+    }
+  ]
+} 

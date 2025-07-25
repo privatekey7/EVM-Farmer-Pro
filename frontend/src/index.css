@@ -1,0 +1,123 @@
+/* Tailwind CSS Base Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Base Styles */
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    @apply antialiased;
+  }
+}
+
+/* Custom Component Styles */
+@layer components {
+  /* Button Components */
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 transition-colors;
+  }
+  
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-gray-200 text-gray-900 hover:bg-gray-300 focus:ring-gray-500;
+  }
+  
+  .btn-success {
+    @apply btn bg-success-600 text-white hover:bg-success-700 focus:ring-success-500;
+  }
+  
+  .btn-warning {
+    @apply btn bg-warning-600 text-white hover:bg-warning-700 focus:ring-warning-500;
+  }
+  
+  .btn-error {
+    @apply btn bg-error-600 text-white hover:bg-error-700 focus:ring-error-500;
+  }
+  
+  .btn-sm {
+    @apply px-3 py-1.5 text-xs;
+  }
+  
+  .btn-lg {
+    @apply px-6 py-3 text-base;
+  }
+  
+  /* Input Components */
+  .input {
+    @apply block w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md shadow-sm placeholder-gray-400 dark:placeholder-gray-500 bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm;
+  }
+  
+  .input-error {
+    @apply border-error-300 dark:border-error-600 text-error-900 dark:text-error-100 placeholder-error-300 dark:placeholder-error-500 focus:ring-error-500 focus:border-error-500;
+  }
+  
+  /* Card Component */
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow border border-gray-200 dark:border-gray-700 p-6;
+  }
+  
+  /* Badge Components */
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  
+  .badge-primary {
+    @apply badge bg-primary-100 dark:bg-primary-900/30 text-primary-800 dark:text-primary-200;
+  }
+  
+  .badge-success {
+    @apply badge bg-success-100 dark:bg-success-900/30 text-success-800 dark:text-success-200;
+  }
+  
+  .badge-warning {
+    @apply badge bg-warning-100 dark:bg-warning-900/30 text-warning-800 dark:text-warning-200;
+  }
+  
+  .badge-error {
+    @apply badge bg-error-100 dark:bg-error-900/30 text-error-800 dark:text-error-200;
+  }
+  
+  .badge-gray {
+    @apply badge bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200;
+  }
+}
+
+/* Custom Utility Styles */
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Range input styles for dark theme */
+  input[type="range"] {
+    @apply appearance-none bg-transparent cursor-pointer;
+  }
+  
+  input[type="range"]::-webkit-slider-track {
+    @apply bg-gray-200 dark:bg-gray-600 h-2 rounded-lg;
+  }
+  
+  input[type="range"]::-webkit-slider-thumb {
+    @apply appearance-none bg-primary-600 dark:bg-primary-500 h-4 w-4 rounded-full cursor-pointer;
+  }
+  
+  input[type="range"]::-moz-range-track {
+    @apply bg-gray-200 dark:bg-gray-600 h-2 rounded-lg;
+  }
+  
+  input[type="range"]::-moz-range-thumb {
+    @apply bg-primary-600 dark:bg-primary-500 h-4 w-4 rounded-full cursor-pointer border-0;
+  }
+} 

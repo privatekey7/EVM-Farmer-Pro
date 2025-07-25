@@ -1,0 +1,191 @@
+{
+  "fallbackRPC": [
+    {
+      "chainId": 146,
+      "name": "sonic",
+      "fallbackUrls": [
+        "https://sonic.drpc.org",  
+        "https://rpc.soniclabs.com",
+        "https://sonic.api.onfinality.io/public"
+      ]
+    },
+    {
+      "chainId": 1101,
+      "name": "polygon-zkevm",
+      "fallbackUrls": [
+        "https://zkevm-rpc.com",  
+        "https://endpoints.omniatech.io/v1/polygon-zkevm/mainnet/public",
+        "https://polygon-zkevm-mainnet.public.blastapi.io"
+      ]
+    },
+    {
+      "chainId": 130,
+      "name": "unichain",
+      "fallbackUrls": [
+        "https://unichain.drpc.org",  
+        "https://unichain-rpc.publicnode.com"
+      ]
+    },
+    {
+        "chainId": 169,
+        "name": "manta-pacific",
+        "fallbackUrls": [
+          "https://manta-pacific.drpc.org"
+        ]
+      },
+    {
+        "chainId": 1135,
+        "name": "lisk",
+        "fallbackUrls": [
+          "https://rpc.lisk.com",
+          "https://lisk.gateway.tenderly.co/"
+        ]
+      },
+    {
+      "chainId": 167000,
+      "name": "taiko",
+      "fallbackUrls": [
+        "https://taiko-rpc.publicnode.com",
+        "https://taiko.drpc.org",
+        "https://rpc.taiko.xyz"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "name": "base",
+      "fallbackUrls": [
+        "https://mainnet.base.org",
+        "https://base.blockpi.network/v1/rpc/public",
+        "https://1rpc.io/base"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "name": "arbitrum",
+      "fallbackUrls": [
+        "https://arb1.arbitrum.io/rpc",
+        "https://arbitrum-one.publicnode.com",
+        "https://arbitrum.drpc.org"
+      ]
+    },
+    {
+      "chainId": 10,
+      "name": "optimism",
+      "fallbackUrls": [
+        "https://1rpc.io/op",
+        "https://optimism.publicnode.com",
+        "https://optimism.drpc.org"
+      ]
+    },
+    {
+      "chainId": 137,
+      "name": "polygon",
+      "fallbackUrls": [
+        "https://polygon-bor-rpc.publicnode.com",
+        "https://polygon-pokt.nodies.app",
+        "https://polygon.drpc.org"
+      ]
+    },
+    {
+      "chainId": 56,
+      "name": "bsc",
+      "fallbackUrls": [
+        "https://bsc-dataseed.binance.org",
+        "https://bsc-dataseed1.defibit.io",
+        "https://bsc.drpc.org"
+      ]
+    },
+    {
+      "chainId": 43114,
+      "name": "avalanche",
+      "fallbackUrls": [
+        "https://api.avax.network/ext/bc/C/rpc",
+        "https://avalanche.public-rpc.com",
+        "https://avalanche.drpc.org"
+      ]
+    },
+    {
+      "chainId": 1,
+      "name": "ethereum",
+      "fallbackUrls": [
+        "https://1rpc.io/eth",
+        "https://ethereum.publicnode.com",
+        "https://eth.drpc.org"
+      ]
+    },
+    {
+      "chainId": 100,
+      "name": "gnosis",
+      "fallbackUrls": [
+        "https://rpc.gnosischain.com",
+        "https://gnosis.publicnode.com",
+        "https://gnosis.drpc.org"
+      ]
+    },
+    {
+      "chainId": 324,
+      "name": "zksync",
+      "fallbackUrls": [
+        "https://mainnet.era.zksync.io",
+        "https://zksync.drpc.org"
+      ]
+    },
+    {
+      "chainId": 59144,
+      "name": "linea",
+      "fallbackUrls": [
+        "https://rpc.linea.build",
+        "https://linea.drpc.org"
+      ]
+    },
+    {
+      "chainId": 534352,
+      "name": "scroll",
+      "fallbackUrls": [
+        "https://rpc.scroll.io",
+        "https://scroll.drpc.org"
+      ]
+    },
+    {
+      "chainId": 5000,
+      "name": "mantle",
+      "fallbackUrls": [
+        "https://rpc.mantle.xyz",
+        "https://mantle.drpc.org"
+      ]
+    },
+    {
+      "chainId": 34443,
+      "name": "mode",
+      "fallbackUrls": [
+        "https://mainnet.mode.network",
+        "https://mode.drpc.org"
+      ]
+    },
+    {
+      "chainId": 81457,
+      "name": "blast",
+      "fallbackUrls": [
+        "https://rpc.blast.io",
+        "https://blast.drpc.org"
+      ]
+    },
+    {
+      "chainId": 42220,
+      "name": "celo",
+      "fallbackUrls": [
+        "https://forno.celo.org",
+        "https://rpc.ankr.com/celo",
+        "https://celo.api.onfinality.io/public"
+      ]
+    },
+    {
+      "chainId": 1088,
+      "name": "metis",
+      "fallbackUrls": [
+        "https://andromeda.metis.io/?owner=1088",
+        "https://metis.drpc.org"
+      ]
+    }
+  ]
+} 
