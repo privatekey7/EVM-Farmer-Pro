@@ -3,12 +3,12 @@
     {
       "chainId": 1,
       "name": "ethereum",
-      "httpRpcUrl": "https://eth-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://ethereum.publicnode.com"
     },
     {
       "chainId": 10,
       "name": "optimism",
-      "httpRpcUrl": "https://optimism-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://optimism.publicnode.com"
     },
     {
       "chainId": 25,
@@ -18,27 +18,27 @@
     {
       "chainId": 56,
       "name": "bsc",
-      "httpRpcUrl": "https://bsc-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://bsc.publicnode.com"
     },
     {
       "chainId": 100,
       "name": "gnosis",
-      "httpRpcUrl": "https://gnosis-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://gnosis.publicnode.com"
     },
     {
       "chainId": 130,
       "name": "unichain",
-      "httpRpcUrl": "https://unichain-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl":  "https://unichain-rpc.publicnode.com"
     },
     {
       "chainId": 137,
       "name": "polygon",
-      "httpRpcUrl": "https://polygon-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://polygon-bor.publicnode.com"
     },
     {
       "chainId": 146,
       "name": "sonic",
-      "httpRpcUrl": "https://sonic-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://sonic.drpc.org/"
     },
     {
       "chainId": 169,
@@ -58,7 +58,7 @@
     {
       "chainId": 324,
       "name": "zksync",
-      "httpRpcUrl": "https://zksync-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://mainnet.era.zksync.io"
     },
     {
       "chainId": 360,
@@ -73,7 +73,7 @@
     {
       "chainId": 480,
       "name": "world-chain",
-      "httpRpcUrl": "https://worldchain-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://worldchain.drpc.org"
     },
     {
       "chainId": 690,
@@ -93,12 +93,12 @@
     {
       "chainId": 1088,
       "name": "metis",
-      "httpRpcUrl": "https://metis-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://metis.drpc.org/"
     },
     {
       "chainId": 1101,
       "name": "polygon-zkevm",
-      "httpRpcUrl": "https://polygon-zkevm-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://polygon-zkevm.drpc.org/"
     },
     {
       "chainId": 1135,
@@ -123,7 +123,7 @@
     {
       "chainId": 1868,
       "name": "soneium",
-      "httpRpcUrl": "https://soneium-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://soneium-rpc.publicnode.com"
     },
     {
       "chainId": 1923,
@@ -158,7 +158,7 @@
     {
       "chainId": 5000,
       "name": "mantle",
-      "httpRpcUrl": "https://mantle-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://mantle.publicnode.com"
     },
     {
       "chainId": 5330,
@@ -183,17 +183,17 @@
     {
       "chainId": 42170,
       "name": "Arbitrum Nova",
-      "httpRpcUrl": "https://arbitrum-nova.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://arbitrum-nova.publicnode.com"
     },
     {
       "chainId": 81457,
       "name": "Blast",
-      "httpRpcUrl": "https://blastl2-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://blast-rpc.publicnode.com/"
     },
     {
       "chainId": 34443,
       "name": "Mode",
-      "httpRpcUrl": "https://mode-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://1rpc.io/mode"
     },
     {
       "chainId": 57073,
@@ -203,12 +203,12 @@
     {
       "chainId": 8453,
       "name": "base",
-      "httpRpcUrl": "https://base-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://base.publicnode.com"
     },
     {
       "chainId": 42161,
       "name": "arbitrum",
-      "httpRpcUrl": "https://arbitrum-one.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://arbitrum-one.publicnode.com"
     },
     {
       "chainId": 42220,
@@ -223,7 +223,7 @@
     {
       "chainId": 534352,
       "name": "scroll",
-      "httpRpcUrl": "https://scroll-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://scroll-rpc.publicnode.com/"
     },
     {
       "chainId": 167000,
@@ -269,7 +269,7 @@
     {
       "chainId": 59144,
       "name": "Linea",
-      "httpRpcUrl": "https://linea-mainnet.blastapi.io/0e189c72-1523-48e1-8727-7dd520f19c1f"
+      "httpRpcUrl": "https://linea-rpc.publicnode.com/"
     },
     {
       "chainId": 33139,
